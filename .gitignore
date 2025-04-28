@@ -72,3 +72,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Exclude Firebase plugin binaries (large files) and API Key Manager
+/[Aa]ssets/Firebase/Plugins/
+/API Manager.cs
