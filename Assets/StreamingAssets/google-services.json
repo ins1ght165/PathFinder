@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "976619428720",
+    "firebase_url": "https://unityyolov8-e7be2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unityyolov8-e7be2",
+    "storage_bucket": "unityyolov8-e7be2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976619428720:android:f78be161654b6d217f8db5",
+        "android_client_info": {
+          "package_name": "com.unity.AssistiveTool.vr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjJP9s0VPh4r0bGtCXxhEy0nyE7QsdXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
