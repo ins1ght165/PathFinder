@@ -75,4 +75,4 @@ crashlytics-build.properties
 
 # Exclude Firebase plugin binaries (large files) and API Key Manager
 /[Aa]ssets/Firebase/Plugins/
-/API Manager.cs
+/Assets/Scripts/Primary Script/API Manager.cs
